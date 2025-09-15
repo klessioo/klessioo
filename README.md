@@ -3,12 +3,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgM4mE95bY6dC/giphy.gif" alt="GIF de Boas-Vindas" width="300"/>
-</div>
-
----
-
 ### 💻 Sobre Mim
 
 Sou um desenvolvedor apaixonado por **tecnologia** e **inovação**. Minha jornada na programação é guiada pela curiosidade e pela busca constante por desafios. Atualmente, estou focado em **desenvolvimento web** e **aplicações back-end**, onde utilizo minha experiência para criar soluções eficientes e robustas.
